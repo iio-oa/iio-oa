@@ -5,7 +5,7 @@ Senior Team Lead @ [Flashpoint](https://flashpoint.io) | Mandarin HSK VI | San D
 
 ---
 
-I've spent 15+ years at the intersection of China expertise, open source intelligence, and emerging technology — surfacing intelligence from the platforms, networks, and data ecosystems that traditional methods miss.
+I've spent much of my career working at the intersection of China expertise, open source intelligence, and emerging technology — surfacing intelligence from the platforms, networks, and data ecosystems that traditional methods miss.
 
 Lately I'm focused on what happens when AI meets OSINT in hard-to-reach spaces: semi-autonomous research tooling, MCP server integrations for walled-garden platforms, and the infrastructure challenges of sustained access to closed online ecosystems.
 
